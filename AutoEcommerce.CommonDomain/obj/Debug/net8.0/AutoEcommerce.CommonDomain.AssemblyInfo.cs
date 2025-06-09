@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoEcommerce.CommonDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0d6b3fc38c1a267bea059787c597279838e1226")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoEcommerce.CommonDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoEcommerce.CommonDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

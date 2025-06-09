@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WEc8oNjVeso=",
+  "dgSpecHash": "76v/8I6kpQI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Services\\AutoEcommerce.Services.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nexus\\Desktop\\AutoVehicle-Ecommerce\\AutoEcommerce.Services\\AutoEcommerce.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nexus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\nexus\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\nexus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
