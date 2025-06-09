@@ -8,5 +8,9 @@ namespace AutoEcommerce.Domain.Users
 {
     class User
     {
+        public int Id;
+        public string Email;
+        public string Username;
+        public string Password;
     }
 }
