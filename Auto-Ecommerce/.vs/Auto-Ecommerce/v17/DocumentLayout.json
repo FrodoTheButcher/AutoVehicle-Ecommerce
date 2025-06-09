@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\Auto-Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD58E6D-9880-4F52-9A70-A3690C594F3A}|..\\AutoEcommerce.CommonDomain\\AutoEcommerce.CommonDomain.csproj|c:\\users\\robi\\desktop\\nicholas-ecommerce\\autoecommerce.commondomain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F751DB-2C62-4D26-A38C-D21B430F52D9}|..\\AutoEcommerce.BusinessLogic\\AutoEcommerce.BusinessLogic.csproj|c:\\users\\robi\\desktop\\nicholas-ecommerce\\autoecommerce.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4017290-0498-47B7-B748-745321F24D07}|..\\AutoEcommerce.Database\\AutoEcommerce.Database.csproj|c:\\users\\robi\\desktop\\nicholas-ecommerce\\autoecommerce.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69679B3-ECDC-4842-8C77-A92EE9889634}|..\\AutoEcommerce.Services\\AutoEcommerce.Services.csproj|c:\\users\\robi\\desktop\\nicholas-ecommerce\\autoecommerce.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3AA4D5-B56E-4E2C-97C8-20BB54275FE6}|..\\AutoEcommerce.Repositories\\AutoEcommerce.Repositories.csproj|c:\\users\\robi\\desktop\\nicholas-ecommerce\\autoecommerce.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD7FC86-F8A0-4BE7-8623-0757240AB4E6}|..\\AutoEcommerce.Domain\\AutoEcommerce.Domain.csproj|c:\\users\\robi\\desktop\\nicholas-ecommerce\\autoecommerce.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93762C2-8D55-42B8-9093-47BA68BEB0C1}|Auto-Ecommerce.csproj|c:\\users\\robi\\desktop\\nicholas-ecommerce\\auto-ecommerce\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93762C2-8D55-42B8-9093-47BA68BEB0C1}|Auto-Ecommerce.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93762C2-8D55-42B8-9093-47BA68BEB0C1}|Auto-Ecommerce.csproj|c:\\users\\robi\\desktop\\nicholas-ecommerce\\auto-ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93762C2-8D55-42B8-9093-47BA68BEB0C1}|Auto-Ecommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.CommonDomain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AutoEcommerce.CommonDomain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.CommonDomain\\Class1.cs",
+              "RelativeToolTip": "..\\AutoEcommerce.CommonDomain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:48:33.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AutoEcommerce.BusinessLogic\\Class1.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "..\\AutoEcommerce.BusinessLogic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:48:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Database\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AutoEcommerce.Database\\Class1.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Database\\Class1.cs",
+              "RelativeToolTip": "..\\AutoEcommerce.Database\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:47:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AutoEcommerce.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Services\\Class1.cs",
+              "RelativeToolTip": "..\\AutoEcommerce.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:47:37.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AutoEcommerce.Repositories\\Class1.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Repositories\\Class1.cs",
+              "RelativeToolTip": "..\\AutoEcommerce.Repositories\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:47:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AutoEcommerce.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\AutoEcommerce.Domain\\Class1.cs",
+              "RelativeToolTip": "..\\AutoEcommerce.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:47:03.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\Auto-Ecommerce\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\Auto-Ecommerce\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:46:28.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\Auto-Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\nicholas-ecommerce\\Auto-Ecommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:45:50.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
