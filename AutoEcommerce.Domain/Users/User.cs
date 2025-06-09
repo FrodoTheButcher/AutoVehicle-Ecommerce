@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AutoEcommerce.Domain.Users
 {
-    class User
+    public class User
     {
         public int Id;
         public string Email;
